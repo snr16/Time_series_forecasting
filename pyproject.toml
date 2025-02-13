@@ -16,6 +16,7 @@ prophet = "^1.1.6"
 llvmlite = "^0.44.0"
 ipykernel = "^6.29.5"
 seaborn = "^0.13.2"
+squarify = "^0.4.4"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

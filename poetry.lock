@@ -1761,6 +1761,18 @@ files = [
 ]
 
 [[package]]
+name = "squarify"
+version = "0.4.4"
+description = "Pure Python implementation of the squarify treemap layout algorithm"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "squarify-0.4.4-py3-none-any.whl", hash = "sha256:d7597724e29d48aa14fd2f551060d6b09e1f0a67e4cd3ea329fe03b4c9a56f11"},
+    {file = "squarify-0.4.4.tar.gz", hash = "sha256:b8a110c8dc5f1cd1402ca12d79764a081e90bfc445346cfa166df929753ecb46"},
+]
+
+[[package]]
 name = "stack-data"
 version = "0.6.3"
 description = "Extract data from python stack frames and tracebacks for informative displays"
@@ -1994,4 +2006,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11,<3.12"
-content-hash = "d4b518ac526979d5a1efc3c262b261ab37ad4db875195a054488f6de5d4171ce"
+content-hash = "8e88aa4495fa5d931a45f6f624674b1bb6c3744b0e597e6e43f2cdd2d757afb0"
